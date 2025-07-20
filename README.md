@@ -19,6 +19,9 @@ This project uses SQL and Python (Pandas + Matplotlib) to analyze admissions dat
 - Total of **151 admissions** across 6 months
 - Trends are relatively stable, with actionable room to improve marketing focus
 
+## 📁 Files
+- `SNF_Admissions_Analysis_Portfolio_Project.ipynb`: Full Jupyter Notebook with code, visualizations, and insights
+
 ## 🔧 How to Run
 1. Install [Anaconda](https://www.anaconda.com/products/distribution) or use [Google Colab](https://colab.research.google.com)
 2. Open the notebook
